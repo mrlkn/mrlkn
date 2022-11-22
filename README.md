@@ -7,7 +7,7 @@ Software engineer & backend developer
 Working with Python and Django professionally over 5 years.
 
 * 🌍  I'm based in Rotterdam, Netherlands
-* 🖥️  See my portfolio at [my blog](http://omeralkin.com)
+* 🖥️  Have a look at [my blog](http://omeralkin.com)
 * ✉️  You can contact me at [omeralkin7@gmail.com](mailto:omeralkin7@gmail.com)
 * 🚀  I'm currently working on [LeQuest](http://lequest.com)
 
